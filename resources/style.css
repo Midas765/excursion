@@ -1,0 +1,18 @@
+html {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    text-align: center;
+}
+
+header, h1 {
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    color: Aquamarine;
+}
